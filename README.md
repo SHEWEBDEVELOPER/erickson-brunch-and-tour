@@ -1,2 +1,2 @@
-# erickson-lunch-and-tour
+# erickson-Brunch-and-tour
 Drupal + Bootstrap Landing Page for Erickson Senior Living
